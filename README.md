@@ -2,4 +2,4 @@
 
 Requires an API Key from: https://console.cloud.google.com/apis/
  
-Originated by**steelejay** and **LukasMeine**
+Originated by steelejay and ukasMeine
